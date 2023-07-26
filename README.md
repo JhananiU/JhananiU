@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JhananiU
-- 👀 I’m interested in web development ,python development and so on 
-- 🌱 I’m currently doin B-Tech 3rd year
+- 👋 Hi, I’m JhananiU
+- 👀 I'm a Engineer Graduate
+- 🌱 My feilds of interest include web designing, machine learning , artificial intelligence etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/jhanani-shankar
 -
